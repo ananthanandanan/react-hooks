@@ -7,9 +7,18 @@ I am learning practical examples of the most common hooks. As in how to use them
 
 ## Hooks used
 
-- useCallBack
-- useMemo
-- useRef
-- useReducer
-- use
-- useDebounce
+- [useCallback](./callback/)
+- [useMemo](./memo/)
+- [useRef](./ref/)
+- [useReducer](./reducer/)
+- [useDebounce](./debounce/)
+
+## Why this project?
+
+This is basically a project which I am using to learn React Hooks, how it works, and when to use them. This also works as a reference for me to look back at when I need to use a hook.
+
+## Setting up the project
+
+- Clone the project
+- On separate hooks folder, run `npm install` to install all the dependencies
+- Run `npm run dev` to start the development server
